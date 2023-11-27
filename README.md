@@ -14,6 +14,8 @@ pytorch章节中，将包含
 
 3.pytorch常用的各种算法
 
+​	具体参考：pytorch-code/00_algorithm
+
 4.pytorch的神经网络搭建
 
 5.pytorch的计算机视觉的相关知识
