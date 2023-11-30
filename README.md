@@ -6,6 +6,10 @@
 
 ## math
 
+math章节中，将包含如下的数学方面知识
+
+
+
 微积分
 
 线性代数
@@ -30,8 +34,6 @@ pytorch章节中，将包含
 
 3.pytorch常用的各种算法
 
-​	具体参考：pytorch-code/00_algorithm
-
 4.pytorch的神经网络搭建
 
 5.pytorch的计算机视觉的相关知识
@@ -48,7 +50,7 @@ pytorch章节中，将包含
 
 ## tensorflow
 
-第二章，将会学习到 tensorflow的相关知识
+本章中，将会学习到 tensorflow的相关知识
 
 
 
