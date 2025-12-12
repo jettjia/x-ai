@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+env/
+*.venv
+
+# IDE configurations
+.idea/
+.vscode/
+*.swp
+*.swo
+*\~
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test and coverage
+.coverage
+coverage.xml
+htmlcov/
+pytest_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log

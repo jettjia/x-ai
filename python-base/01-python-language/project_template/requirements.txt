@@ -1,0 +1,8 @@
+# 项目依赖列表
+# 使用命令 "pip freeze > requirements.txt" 生成
+
+# 以下是项目的基本依赖
+# 如果有特定版本要求，可以指定版本号
+# 例如: requests>=2.25.1
+
+# 开发依赖在setup.py的extras_require中定义
