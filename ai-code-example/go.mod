@@ -4,18 +4,19 @@ go 1.25.0
 
 require (
 	github.com/bytedance/sonic v1.14.2
-	github.com/cloudwego/eino v0.7.8
+	github.com/cloudwego/eino v0.7.13
 	github.com/cloudwego/eino-examples v0.0.0-20251209094121-a18a2c05381f
 	github.com/cloudwego/eino-ext/a2a v0.0.1-alpha.9
 	github.com/cloudwego/eino-ext/callbacks/cozeloop v0.1.6
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.54
 	github.com/cloudwego/eino-ext/components/model/ollama v0.1.6
-	github.com/cloudwego/eino-ext/components/model/openai v0.1.5
+	github.com/cloudwego/eino-ext/components/model/openai v0.1.8
 	github.com/cloudwego/eino-ext/components/model/qwen v0.1.2
 	github.com/cloudwego/eino-ext/components/tool/commandline v0.0.0-20251211114818-49163370c670
 	github.com/cloudwego/eino-ext/components/tool/duckduckgo v0.0.0-20251211114818-49163370c670
 	github.com/cloudwego/eino-ext/components/tool/duckduckgo/v2 v2.0.0-20251211114818-49163370c670
 	github.com/cloudwego/eino-ext/components/tool/mcp v0.0.8
+	github.com/cloudwego/eino-ext/devops v0.1.8
 	github.com/cloudwego/hertz v0.10.3
 	github.com/coze-dev/cozeloop-go v0.1.11
 	github.com/google/uuid v1.6.0
@@ -38,7 +39,7 @@ require (
 	github.com/bytedance/sonic/loader v0.4.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cloudwego/base64x v0.1.6 // indirect
-	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.2 // indirect
+	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.13 // indirect
 	github.com/cloudwego/gopkg v0.1.4 // indirect
 	github.com/cloudwego/netpoll v0.7.0 // indirect
 	github.com/corpix/uarand v0.2.0 // indirect
@@ -56,12 +57,14 @@ require (
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/goph/emperror v0.17.2 // indirect
+	github.com/gorilla/mux v1.8.1 // indirect
 	github.com/invopop/jsonschema v0.13.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/mailru/easyjson v0.9.0 // indirect
-	github.com/meguminnnnnnnnn/go-openai v0.1.0 // indirect
+	github.com/matoous/go-nanoid v1.5.1 // indirect
+	github.com/meguminnnnnnnnn/go-openai v0.1.1 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/nikolalohinski/gonja v1.5.3 // indirect
